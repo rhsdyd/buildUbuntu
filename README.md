@@ -11,7 +11,7 @@ contianer를 실행
 
 container 실행
  ```    
-     $ docker exec -i -t ubuntu-dev /bin/bahs
+     $ docker exec -i -t ubuntu-dev /bin/bash
 ```
 
 우분투 종료
