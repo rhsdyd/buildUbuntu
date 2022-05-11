@@ -1,4 +1,4 @@
 FROM ubuntu:20.04
 
-WORKDIR /app
-COPY . /app
+WORKDIR /home/mount
+#COPY . /app
