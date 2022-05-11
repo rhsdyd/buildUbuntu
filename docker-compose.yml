@@ -8,5 +8,5 @@ services:
       context: .
       dockerfile: ./Dockerfile
     volumes:
-      - ./ubuntu:/usr/src/app:rw
+      - ./ubuntu:/home/mount:rw
     tty: true
