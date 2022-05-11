@@ -10,3 +10,5 @@ services:
     volumes:
       - ./ubuntu:/home/mount:rw
     tty: true
+    ports:
+      - "8080:8080"
